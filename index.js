@@ -17,6 +17,14 @@ Do the following:
 
    HINT: no function required
 */
+<script>
+  variable x=10;
+  variable y=8
+  variable z = x + y;
+  document.getElementByID("demo").innerHTML = "The value of  is: " +z;
+</script>
+
+
 
 
 
